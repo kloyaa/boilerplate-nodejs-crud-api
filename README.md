@@ -2,7 +2,10 @@
 
 <p>What's inside the project?</p>
 <ul>
-    <li>Create, Read, Update and Delete Controllers</li>
+    <li><h3>Create, Read, Update and Delete</h3></li>
+        <ul>
+            <li>In a REST environment, CRUD often corresponds to the HTTP methods POST, GET, PUT, and DELETE, respectively. These are the fundamental elements of a persistent storage system.</li>
+        </ul>
     <li><h3>HTTP only</h3></li>
         <ul>
             <li>It provides a gate that prevents the specialized cookie from being accessed by anything other than the server.

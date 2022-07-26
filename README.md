@@ -4,7 +4,7 @@
 <ul>
     <li><h3>Create, Read, Update and Delete</h3></li>
         <ul>
-            <li>In a REST environment, CRUD often corresponds to the HTTP methods POST, GET, PUT, and DELETE, respectively. These are the fundamental elements of a persistent storage system.</li>
+            <li><small>In a REST environment, CRUD often corresponds to the HTTP methods POST, GET, PUT, and DELETE, respectively. These are the fundamental elements of a persistent storage system.</small></li>
         </ul>
     <li><h3>HTTP only</h3></li>
         <ul>

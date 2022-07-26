@@ -1,5 +1,5 @@
 <h1> Node Express CRUD API </h1>
-<br/>
+<p>I created this template to make Node JS and Express backend programming simpler. Everyone is welcome to raise an issue because this project is not flawless.</p>
 <h2>Project Dependencies</h2>
 <ul>
     <li>Mongoose</li>

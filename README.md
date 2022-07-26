@@ -43,7 +43,9 @@
 | `ACCESS_TOKEN_SECRET` | Cloudinary folder for the upload destination. This is optional and you can remove the "folder" key safely in upload option |
 
 <h2>Authors</h2>
-<p> Kolya Madridano </p>
+<ul>
+    <li>Kolya Madridano </li>
+</ul>
 
 
 

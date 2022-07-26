@@ -6,8 +6,7 @@
     <li>HTTP only</li>
         <ul>
             <li>
-            <pre>
-            It provides a gate that prevents the specialized cookie from being accessed by anything other than the server.</pre>
+                <p> It provides a gate that prevents the specialized cookie from being accessed by anything other than the server.</p>
             </li>
         </ul>
     <li>Send email</li>

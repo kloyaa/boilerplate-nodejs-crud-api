@@ -5,7 +5,10 @@
     <li>Create, Read, Update and Delete Controllers</li>
     <li>HTTP only</li>
         <ul>
-            <li>It provides a gate that prevents the specialized cookie from being accessed by anything other than the server.</li>
+            <li>
+            <pre>
+            It provides a gate that prevents the specialized cookie from being accessed by anything other than the server.</pre>
+            </li>
         </ul>
     <li>Send email</li>
         <ul>

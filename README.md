@@ -31,9 +31,9 @@
     4. Type command "npm run dev" to run the project
 </pre>
 
-<h2>Project Environment Variables</h2>
+<h2>Environment Variables</h2>
 
-| Command | Description |
+| Variables | Description |
 | :--- | :--- |
 | `CONNECTION_STRING` | Connection string for database |
 | `CLOUDINARY_NAME` | Cloudinary name |

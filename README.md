@@ -3,7 +3,7 @@
 <p>What's inside the project?</p>
 <ul>
     <li>Create, Read, Update and Delete Controllers</li>
-    <li>HTTP only</li>
+    <li><h3>HTTP only</h3></li>
         <ul>
             <li>
                 <p> It provides a gate that prevents the specialized cookie from being accessed by anything other than the server.</p>

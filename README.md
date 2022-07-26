@@ -1,10 +1,11 @@
 <h1> Node Express CRUD API </h1>
 
-<p>What's inside the project?</p>
+#What's inside the project?
+
 <ul>
     <li><h3>Create, Read, Update and Delete</h3></li>
         <ul>
-            <li style="font-size: "10px">In a REST environment, CRUD often corresponds to the HTTP methods POST, GET, PUT, and DELETE, respectively. These are the fundamental elements of a persistent storage system.</li>
+            <li>In a REST environment, CRUD often corresponds to the HTTP methods POST, GET, PUT, and DELETE, respectively. These are the fundamental elements of a persistent storage system.</li>
         </ul>
     <li><h3>HTTP only</h3></li>
         <ul>
@@ -21,7 +22,8 @@
         </ul>
 </ul>
 
-<p>How to install/run the project?</p>
+#How to install/run the project?
+
 <ul>
     <li>Clone/Download repository</li>
     <li>Open the downloaded folder using your preferred IDE </li>

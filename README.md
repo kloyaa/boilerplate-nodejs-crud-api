@@ -1,6 +1,6 @@
 <h1> Node Express CRUD API </h1>
-
-<h2>What's inside the project?</h2>
+<br/><br/>
+<h2>Project Content</h2>
 
 <ul>
     <li><h3>Create, Read, Update and Delete</h3></li>
@@ -41,6 +41,9 @@
 | `CLOUDINARY_SECRET` | Cloudinary secret key |
 | `CLOUDINARY_FOLDER` | Cloudinary folder for the upload destination. This is optional and you can remove the "folder" key safely in upload option |
 | `ACCESS_TOKEN_SECRET` | Cloudinary folder for the upload destination. This is optional and you can remove the "folder" key safely in upload option |
+
+<h2>Authors</h2>
+<p> Kolya Madridano </p>
 
 
 

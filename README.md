@@ -1,5 +1,19 @@
 <h1> Node Express CRUD API </h1>
-<br/><br/>
+<br/>
+<h2>Project Dependencies</h2>
+<ul>
+    <li>Mongoose</li>
+    <li>Express</li>
+    <li>Bcrypt</li>
+    <li>Cloudinary</li>
+    <li>Multer</li>
+    <li>Nodemailer</li>
+    <li>Nodemailer Sendgrid Transport</li>
+    <li>JSON Web Token</li>
+    <li>Uuid</li>
+    <li>Dotenv</li>
+</ul>
+
 <h2>Project Content</h2>
 
 <ul>

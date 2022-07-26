@@ -1,4 +1,4 @@
-<h1> Node Express CRUD API </h1>
+<h1> <b>Node Express CRUD API</b> </h1>
 
 <p>Installation</p>
 <pre> 

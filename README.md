@@ -39,8 +39,7 @@
 | `CLOUDINARY_NAME` | Cloudinary name |
 | `CLOUDINARY_KEY` | Cloudinary key |
 | `CLOUDINARY_SECRET` | Cloudinary secret key |
-| `CLOUDINARY_FOLDER` | Cloudinary folder for the upload destination.
-    This is optional and you can remove the "folder" key safely in upload option |
+| `CLOUDINARY_FOLDER` | Cloudinary folder for the upload destination. This is optional and you can remove the "folder" key safely in upload option |
 | `ACCESS_TOKEN_SECRET` | Cloudinary folder for the upload destination. This is optional and you can remove the "folder" key safely in upload option |
 
 

@@ -7,7 +7,7 @@
         <ul>
             <li>In a REST environment, CRUD often corresponds to the HTTP methods POST, GET, PUT, and DELETE, respectively. These are the fundamental elements of a persistent storage system.</li>
         </ul>
-    <li><h3>JSON Web Toke Authentication HTTP only</h3></li>
+    <li><h3>JSON Web Token Authentication HTTP only</h3></li>
         <ul>
             <li>It provides a gate that prevents the specialized cookie from being accessed by anything other than the server.
             </li>
@@ -30,3 +30,25 @@
     3. Type command "npm install" in IDE terminal to install the dependencies
     4. Type command "npm run dev" to run the project
 </pe>
+
+<h2>Project Environment Variables</h2>
+<pre>
+    CONNECTION_STRING 
+        - Connection string for database
+
+    CLOUDINARY_NAME 
+        - Cloudinary name
+
+    CLOUDINARY_KEY
+        - Cloudinary key
+
+    CLOUDINARY_SECRET
+        - Cloudinary secret key
+
+    CLOUDINARY_FOLDER 
+        - Cloudinary folder for the upload destination. 
+        This is optional and you can remove the "folder" key safely in upload option
+
+    ACCESS_TOKEN_SECRET
+        - Secret key for JWT
+</pre>

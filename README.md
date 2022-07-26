@@ -24,9 +24,9 @@
 
 <h2>How to install/run the project? </h2>
 
-<ul>
-    <li>Clone/Download repository</li>
-    <li>Open the downloaded folder using your preferred IDE </li>
-    <li>Type command "npm install" in IDE terminal to install the dependencies</li>
-    <li>Type command "npm run dev" to run the project</li>
-</ul>
+<pre>
+    1. Clone/Download repository
+    2. Open the downloaded folder using your preferred IDE 
+    3. Type command "npm install" in IDE terminal to install the dependencies
+    4. Type command "npm run dev" to run the project
+</pe>

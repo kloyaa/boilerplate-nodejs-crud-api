@@ -29,14 +29,14 @@
     2. Open the downloaded folder using your preferred IDE 
     3. Type command "npm install" in IDE terminal to install the dependencies
     4. Type command "npm run dev" to run the project
-</pe>
+</pre>
 
 <h2>Project Environment Variables</h2>
 <pre>
     CONNECTION_STRING 
         - Connection string for database
 
-    CLOUDINARY_NAME 
+    CLOUDINARY_NAME
         - Cloudinary name
 
     CLOUDINARY_KEY
@@ -45,10 +45,11 @@
     CLOUDINARY_SECRET
         - Cloudinary secret key
 
-    CLOUDINARY_FOLDER 
-        - Cloudinary folder for the upload destination. 
+    CLOUDINARY_FOLDER
+        - Cloudinary folder for the upload destination.
         This is optional and you can remove the "folder" key safely in upload option
 
     ACCESS_TOKEN_SECRET
         - Secret key for JWT
+
 </pre>

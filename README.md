@@ -32,24 +32,28 @@
 </pre>
 
 <h2>Project Environment Variables</h2>
-<pre>
-    CONNECTION_STRING 
-        - Connection string for database
 
-    CLOUDINARY_NAME
-        - Cloudinary name
+<pre>CONNECTION_STRING</pre>
 
-    CLOUDINARY_KEY
-        - Cloudinary key
+     Connection string for database
 
-    CLOUDINARY_SECRET
-        - Cloudinary secret key
+<pre>CLOUDINARY_NAME</pre>
 
-    CLOUDINARY_FOLDER
-        - Cloudinary folder for the upload destination.
-        This is optional and you can remove the "folder" key safely in upload option
+     Cloudinary name
 
-    ACCESS_TOKEN_SECRET
-        - Secret key for JWT
+<pre>CLOUDINARY_KEY</pre>
 
-</pre>
+     Cloudinary key
+
+<pre>CLOUDINARY_SECRET</pre>
+
+     Cloudinary secret key
+
+<pre>CLOUDINARY_FOLDER</pre>
+
+     Cloudinary folder for the upload destination.
+    This is optional and you can remove the "folder" key safely in upload option
+
+<pre>ACCESS_TOKEN_SECRET</pre>
+
+     Secret key for JWT

@@ -1,6 +1,6 @@
 <h1> Node Express CRUD API </h1>
 
-# What's inside the project?
+<h2>What's inside the project?</h2>
 
 <ul>
     <li><h3>Create, Read, Update and Delete</h3></li>
@@ -22,7 +22,7 @@
         </ul>
 </ul>
 
-# How to install/run the project?
+<h2>How to install/run the project? </h2>
 
 <ul>
     <li>Clone/Download repository</li>

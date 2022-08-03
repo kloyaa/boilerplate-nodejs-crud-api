@@ -36,15 +36,6 @@
         </ul>
 </ul>
 
-<h2>How to install/run the project? </h2>
-
-<pre>
-    1. Clone/Download repository
-    2. Open the downloaded folder using your preferred IDE 
-    3. Download JavaScript runtime built on Chrome's V8 JavaScript engine at https://nodejs.org/en/ and install it
-    4. Type command "npm install" in terminal/cmd  to install the dependencies
-    5. Type command "npm run dev" to run the project
-</pre>
 
 <h2>Environment Variables</h2>
 
@@ -56,6 +47,16 @@
 | `CLOUDINARY_SECRET` | Cloudinary secret key |
 | `CLOUDINARY_FOLDER` | Cloudinary folder for the upload destination. This is optional and you can remove the "folder" key safely in upload option |
 | `ACCESS_TOKEN_SECRET` | Cloudinary folder for the upload destination. This is optional and you can remove the "folder" key safely in upload option |
+
+<h2>How to install/run the project? </h2>
+
+<pre>
+    1. Clone/Download repository
+    2. Open the downloaded folder using your preferred IDE 
+    3. Download JavaScript runtime built on Chrome's V8 JavaScript engine at https://nodejs.org/en/ and install it
+    4. Type command "npm install" in terminal/cmd  to install the dependencies
+    5. Type command "npm run dev" to run the project
+</pre>
 
 <h2>Authors</h2>
 <ul>

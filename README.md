@@ -52,7 +52,7 @@
 
 <pre>
     1. Clone/Download repository
-    2. Open the downloaded folder using your preferred IDE 
+    2. Open the downloaded repository folder using your preferred IDE e.g. [Visual Studio Code](https://code.visualstudio.com/Download)
     3. Download JavaScript runtime built on Chrome's V8 JavaScript engine at https://nodejs.org/en/ and install it
     4. Type command "npm install" in terminal/cmd  to install the dependencies
     5. Type command "npm run dev" to run the project

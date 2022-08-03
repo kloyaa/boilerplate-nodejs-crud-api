@@ -41,8 +41,9 @@
 <pre>
     1. Clone/Download repository
     2. Open the downloaded folder using your preferred IDE 
-    3. Type command "npm install" in IDE terminal to install the dependencies
-    4. Type command "npm run dev" to run the project
+    3. Download JavaScript runtime built on Chrome's V8 JavaScript engine at https://nodejs.org/en/ and install it
+    4. Type command "npm install" in terminal/cmd  to install the dependencies
+    5. Type command "npm run dev" to run the project
 </pre>
 
 <h2>Environment Variables</h2>
